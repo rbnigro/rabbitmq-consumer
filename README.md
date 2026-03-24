@@ -1,4 +1,4 @@
-# 🏦 BDMG - Sistema de Análise de Crédito (Consumer)
+# 🏦 Sistema de Análise de Crédito (Consumer)
 
 Este microserviço é responsável pelo processamento assíncrono de propostas de crédito enviadas via **RabbitMQ**. O sistema atua como o "Motor de Regras", decidindo o destino de cada proposta com base em critérios financeiros.
 
